@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "FINN_MENU",
+	"position": [
+		121,
+		209
+	],
+	"scale": 0.5,
+	"image": "Menu_Finn"
+}
